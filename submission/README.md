@@ -4,7 +4,7 @@ An end-to-end prototype for a fictional state-level skilling programme, featurin
 
 ## 🚀 Live URLs
 - **Frontend:** [https://skillbridge-lmt-vnpx.vercel.app](https://skillbridge-lmt-vnpx.vercel.app)
-- **Backend:** [https://skillbridge-api-9p7u.onrender.com]((https://skillbridge-lmt.onrender.com))
+- **Backend:** [https://skillbridge-api-9p7u.onrender.com](https://skillbridge-lmt.onrender.com)
 
 ## 🔑 Test Accounts
 | Role | Email | Password |
