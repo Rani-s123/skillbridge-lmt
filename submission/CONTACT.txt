@@ -1,0 +1,5 @@
+Full Name: Rani Karansing Rajpurohit
+Email: rajpurohitrani004@gmail.com
+Phone: +91-7350258568
+GitHub Profile Link: https://github.com/Rani-s123
+One sentence on most challenging part: Implementing the multi-role access control logic both on frontend and backend while ensuring seamless Clerk integration was the most challenging and rewarding part.
