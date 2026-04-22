@@ -3,8 +3,8 @@
 An end-to-end prototype for a fictional state-level skilling programme, featuring multi-role access control, real-time attendance tracking, and data aggregation.
 
 ## 🚀 Live URLs
-- **Frontend:** [https://skillbridge-frontend-v1.vercel.app](https://skillbridge-frontend-v1.vercel.app)
-- **Backend:** [https://skillbridge-api-v1.railway.app](https://skillbridge-api-v1.railway.app)
+- **Frontend:** [https://skillbridge-lmt-vnpx.vercel.app](https://skillbridge-lmt-vnpx.vercel.app)
+- **Backend:** [https://skillbridge-api-9p7u.onrender.com](https://skillbridge-api-9p7u.onrender.com)
 
 ## 🔑 Test Accounts
 | Role | Email | Password |
